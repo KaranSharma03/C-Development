@@ -2,4 +2,4 @@
 
 These files are the practice c code I made while learning C programming.
 
-<img src="images/.JPG" Height=400>
+<img src="download.png" Height=400>
